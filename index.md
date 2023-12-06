@@ -39,3 +39,17 @@ print('Average Treatment Effect by Linear Regression S-learner: {:.2f} ({:.2f}, 
 # lower_bound 是 treatment_effect 的下置信范围
 # upper_bound 是 treatment_effect 的上置信范围
 ````
+
+
+## 因果推断基础
+
+### 潜在因果模型
+### 结构因果模型
+### 因果效应估计
+
+## 因果结构学习
+
+- [x] 因果推断基础
+- [ ] Outline my portfolio
+- [ ] 因果结构学习
+
